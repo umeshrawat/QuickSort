@@ -1,4 +1,4 @@
-public class QuickSort {
+public class SortingAlgorithms {
 
     static int count = 0;
 
